@@ -5,4 +5,5 @@
 # 串口虚拟工具
 + 作用
  1. 模拟串口连接
- 2. 链接: https://pan.baidu.com/s/18J73bnXQysebP91_rj84Lw 提取码: 1111 
+ 2. 链接: https://pan.baidu.com/s/18J73bnXQysebP91_rj84Lw 提取码: 1111
+ 3. 12333231213
